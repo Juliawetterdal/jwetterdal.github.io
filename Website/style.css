@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* CSS Document */
+.desktop {
+	width: auto;
+	height: 1593px;
+}
+
+.header {
+	width: auto;
+	background: #FCF4F4;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu {
+	width: 533px;
+	height: 202px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+/* LOGO */
+
+.logo {
+	width: 533px;
+	height: 202px;
+	background: #FCF4F4;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	align-items: center;
+	animation: 3s 1;
+}
+
+.logobox {
+	width: 165px;
+	height: 163px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 30px;
+}
+
+.buttom {
+    width: 107px;
+    height: 36px;
+	background: #FCF4F4;
+	margin-left: 20px;
+	margin-right: auto;
+	margin-top: 50px;
+	float: left;	
+}
+
+/* LOGO END */
+
+a {
+	display:block;
+	margin-left: 30px;
+	margin-right: auto;
+	margin-top: 7px;
+	text-decoration: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 21px;
+    color: #6C2424;
+}
+a:hover {
+	display:block;
+	margin-left: 30px;
+	margin-right: auto;
+	margin-top: 7px;
+	text-decoration: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 21px;
+	color: #2E0F10;
+	
+
+/* THIS IS MY PICTURE SLIDE */
+}
+.slide {
+    width: auto;
+    height: 295px;
+    left: -7px;
+    top: 50px;
+    background:  #E0CFCF;;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pictureslide {
+	width: 1000px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 130px;
+	text-align: center;
+}
+
+.pictures {
+	width: 250px;
+	height: 300px;
+	margin-left: 60px;
+	margin-right: auto;
+	margin-top: auto;
+	float: left;
+	border: solid black 1px;
+	text-align: center;
+
+/* PICTURE SLIDE END */
+}
+.slidee {
+    width: auto;
+    height: 350px;
+    left: -7px;
+    top: 50px;
+    background:  rgba(219, 205, 205, 0.5);;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: -400px;
+}
+
+img {
+	margin-top: 5px;
+}
+
+ /* THIS IS MY NUMBERS */
+
+
+ .about h1 {
+	text-align: center;
+	margin-left: 25px;
+	font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+	font-size: 35px;
+    line-height: 85px;
+	color: rgb(5, 5, 5);
+	margin-top: 10px;
+ }
+
+ .about {
+	border: solid black 0.5px;
+	margin-bottom: 10px;
+	padding: 40px;
+	font-family: 'Aguafina Script'; font-size: 40px;
+	border-width: -20px;
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 280px;
+}
+
+
+
+h1 {
+	margin-top: -65px;
+    text-align: left;
+	margin-left: 25px;
+	font-family: 'Aguafina Script';
+    font-style: normal;
+    font-weight: bold;
+	font-size: 45px;
+    line-height: 85px;
+    color: #6C2424;
+}
+
+
+ 
+/* NUMBER END */
+
+	
+
+/* THIS IS MY ABOUT TEXT */
+h2 {
+
+    text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-family: Aguafina Script;
+    font-style: normal;
+    font-weight: thin;
+	font-size: 12px;
+	line-height: 25px;
+	color: rgb(0, 0, 0);
+	
+
+}
+
+/* ABOUT END */
+
